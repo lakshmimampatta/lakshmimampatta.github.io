@@ -6,7 +6,7 @@ collection: publications
 category: conferences
 permalink: /publication/Immersive-digital-therapeutics
 excerpt: "An exploration of the real-world challenges in deploying immersive digital therapeutics for adolescents with ADHD from the perspectives of multiple stakeholders."
-date: 
+date: '2026-06-08'
 venue: 'TKTP 2026 - Proceedings forthcoming'
 slidesurl: 
 paperurl: 
