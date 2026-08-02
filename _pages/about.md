@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I didn't start out as a researcher. For six years I worked as a **software test engineer** — first on e-commerce platforms, later on safety-critical automation systems — learning to methodically pull systems apart to find where they break, and to document exactly what I found.
+Hei...
 
-Along the way, I also spent time as a **teaching assistant**, preparing lectures on programming and databases — my first experience translating technical ideas for other people to actually use.
+I am Lakshmi. an **interdisciplinary researcher** with a background in **software engineering**. I am from southern state of India **Kerala** but currently lives in Finland. My research focuses on Human–Computer Interaction, Digital Health, Responsible AI, and Artificial Intelligence.
 
-Wanting to understand not just whether systems work, but why they fail for the people using them, I moved into a **master's in Business Analytics** (Information Processing Science track) at the University of Oulu, and from there into full-time **research** — qualitative fieldwork with children, therapists, designers, and patients across four continents, alongside continued technical work in data engineering and applied AI.
+My journey started as a software test engineer but later I became more interested in the people behind the technology, how they interact with it, how it fits into their everyday lives, and how we can make technology more accessible and meaningful. That curiosity brought me into interdisciplinary research. In my opiniion, research and engineering complement each other, research helps to identify questions, while technical knowledge helps to turn those ideas into something that people can use.
 
-Today I work as an **interdisciplinary researcher**, moving between qualitative coding, immersive systems, and machine learning, because the most interesting questions about technology rarely stay inside one discipline. My research asks how people come to trust, adopt, or get excluded by the technology built for them.
+**Outside of research**, I love travelling and exploring new places. Every journey will provide a unique experience by exploring different landscapes, cuisines, and cultures. There's always something new to learn. Apart from that I love dancing particularly **indian classical dance** and I am a trained classical dancer.
 
-You can find my [research and technical projects](/portfolio/) and [publications](/publications/) elsewhere on this site, or get in touch directly — my details are in the sidebar.
