@@ -1,5 +1,5 @@
 ---
-title: 'No Caste, No Crowds, and Robots for All: Children’s Values, Hopes, and Fears in the Designs of their Future Classrooms'
+title:'No Caste, No Crowds, and Robots for All: Children’s Values, Hopes, and Fears in the Designs of their Future Classrooms'
 collection: publications
 category: conferences
 permalink: '/publication/chi-2026-robots'
