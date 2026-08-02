@@ -5,7 +5,7 @@ Therapeutics for Adolescents with ADHD"
 collection: publications
 category: conferences
 permalink: /publication/Immersive-digital-therapeutics
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: "An exploration of the real-world challenges in deploying immersive digital therapeutics for adolescents with ADHD from the perspectives of multiple stakeholders."
 date: 
 venue: 'TKTP 2026 - Proceedings forthcoming'
 slidesurl: 
