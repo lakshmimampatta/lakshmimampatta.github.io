@@ -1,14 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "The Future of Digital Interventions in
+Epilepsy Care: Needs, Scenarios, and
+Possibilities"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: conferences
+permalink: /publication/The Future of Digital Interventions in Epilepsy Care
+excerpt: "This study explores future digital interventions for epilepsy care by identifying patient needs and developing future scenarios through a futures workshop approach."
+date: 2026-05-25
+venue: 'MIE 2026'
+slidesurl: 
+paperurl: 'https://doi.org/10.3233/SHTI260499'
+citation: "Sinervä, M., Vihriälä-Määttä, T., Mikkola, A., Keikhosrokiani, P., Mampatta, L., Korsah, A., ... & Isomursu, M. (2026). The Future of Digital Interventions in Epilepsy Care: Needs, Scenarios, and Possibilities. Opening the Personal Gate between Technology and Health Care: Proceedings of MIE 2026."
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
