@@ -4,7 +4,7 @@ excerpt:
 collection: portfolio
 category: research
 permalink: /research-projects/epilepsy-digital-interventions
-date: 2026-03-04
+date: 2025-11-04
 ---
 
 ## Overview
