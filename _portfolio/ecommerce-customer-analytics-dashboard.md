@@ -31,3 +31,88 @@ Found that spending increases with age for both genders, that Venmo dominates am
 - Interactive dashboard design
 - Cross-filtering and demographic segmentation
 - Business insight synthesis
+
+
+<details>
+<summary><strong>📷 Images</strong></summary>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
+  <div style="flex: 1 1 30%;">
+    <a href="/images/Tableau_1.png" target="_blank">
+      <img src="/images/Tableau_1.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Tableau_1</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <a href="/images/Tableau_2.png" target="_blank">
+      <img src="/images/Tableau_2.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Tableau_2</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <a href="/images/Tableau_3.png" target="_blank">
+      <img src="/images/Tableau_3.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Tableau_3</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <a href="/images/Tableau_4.png" target="_blank">
+      <img src="/images/Tableau_4.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Tableau_4</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <a href="/images/Tableau_5.png" target="_blank">
+      <img src="/images/Tableau_5.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Tableau_5</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <a href="/images/Tableau_6.png" target="_blank">
+      <img src="/images/Tableau_6.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Tableau_6</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <a href="/images/Tableau_7.png" target="_blank">
+      <img src="/images/Tableau_7.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Tableau_7</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <a href="/images/Tableau_8.png" target="_blank">
+      <img src="/images/Tableau_8.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Tableau_8</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <a href="/images/Tableau_9.png" target="_blank">
+      <img src="/images/Tableau_9.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Tableau_9</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <a href="/images/Tableau_10.png" target="_blank">
+      <img src="/images/Tableau_10.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Tableau_10</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <a href="/images/Tableau_12.png" target="_blank">
+      <img src="/images/Tableau_12.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Tableau_12</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <a href="/images/Tableau_13.png" target="_blank">
+      <img src="/images/Tableau_13.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Tableau_13</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <a href="/images/Tableau_14.png" target="_blank">
+      <img src="/images/Tableau_14.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Tableau_14</p>
+  </div>
+</div>
+</details>
