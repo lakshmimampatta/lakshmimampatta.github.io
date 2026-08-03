@@ -76,7 +76,7 @@ Designed and evaluated a scalable machine learning pipeline for credit card frau
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
   <div style="flex: 1 1 30%;">
     <a href="/images/Analysis_of_transactions.png" target="_blank">
-      <img src="/images/Analysis_of_transactions" style="width: 100%; border-radius: 6px; cursor: pointer;">
+      <img src="/images/Analysis_of_transactions.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
     </a>
     <p style="text-align: center; font-style: italic; font-size: 0.9em;">Analysis of transactions</p>
   </div>
@@ -87,8 +87,8 @@ Designed and evaluated a scalable machine learning pipeline for credit card frau
     <p style="text-align: center; font-style: italic; font-size: 0.9em;">Clustering analysis</p>
   </div>
   <div style="flex: 1 1 30%;">
-    <a href="/images/Comparison_of_faudulent_&_non-fraudulent_transactions.png" target="_blank">
-      <img src="/images/Comparison_of_faudulent_&_non-fraudulent_transactions.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    <a href="/images/Comparison_of_fraudulent_&amp;_non-fraudulent_transactions.png" target="_blank">
+      <img src="/images/Comparison_of_fraudulent_&amp;_non-fraudulent_transactions.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
     </a>
     <p style="text-align: center; font-style: italic; font-size: 0.9em;">Comparison of transactions</p>
   </div>
