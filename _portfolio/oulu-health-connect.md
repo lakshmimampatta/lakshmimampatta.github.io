@@ -4,7 +4,7 @@ excerpt: "Cross-platform mobile app concept for healthcare access for internatio
 collection: portfolio
 category: technical
 permalink: /technical-projects/oulu-health-connect
-date: 2026-01-01
+date: 2024-04-25
 ---
 
 ## Project Overview
@@ -45,4 +45,36 @@ The application was designed with a user-centric approach focusing on simplicity
 - Testing strategy
 - Risk management
 - End-to-end software concept planning
+
+<details>
+<summary><strong>📷 Images</strong></summary>
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
+  <div style="flex: 1 1 30%;">
+    <img src="/images/starting_pages.png" style="width: 100%; border-radius: 6px;">
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Starting, Login, Profile Settings wireframe</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <img src="/images/main_page.png" style="width: 100%; border-radius: 6px;">
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Main wireframe</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <img src="/images/hospitals_pharmacies_laborataries.png" style="width: 100%; border-radius: 6px;">
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Healthcare organizations</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <img src="/images/mental_wellness.png" style="width: 100%; border-radius: 6px;">
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Mental Wellness</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <img src="/images/search.png" style="width: 100%; border-radius: 6px;">
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Search</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <img src="/images/maps.png" style="width: 100%; border-radius: 6px;">
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Map</p>
+  </div>
+</div>
+
+</details>
 
