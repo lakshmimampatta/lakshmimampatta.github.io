@@ -39,3 +39,23 @@ Findings showed children envisioning classroom AI grounded in empathy, inclusion
 - Participatory research with children
 
 **Related publication:** Sharma, S., Mampatta, L., et al. (2026). No Caste, No Crowds, and Robots for All: Children's Values, Hopes, and Fears in the Designs of their Future Classrooms. *CHI 2026*. [Read the paper](https://dl.acm.org/doi/pdf/10.1145/3772318.3791395)
+
+<details>
+<summary><strong>📷 Images</strong></summary>
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
+  <div style="flex: 1 1 30%;">
+    <img src="/images/Participants_work.png" style="width: 100%; border-radius: 6px;">
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Workshop session with children</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <img src="/images/Future_imaginaries.png" style="width: 100%; border-radius: 6px;">
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Design futuring activity</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <img src="/images/workshop_booklet.png" style="width: 100%; border-radius: 6px;">
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Booklet prototyping</p>
+  </div>
+</div>
+
+</details>
