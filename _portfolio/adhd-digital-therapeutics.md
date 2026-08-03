@@ -4,7 +4,7 @@ excerpt: "M.Sc. Thesis, University of Oulu, 2025"
 collection: portfolio
 category: research
 permalink: /research-projects/adhd-digital-therapeutics
-date: 2025-01-01
+date: 2024-08-26
 ---
 
 ## Overview
