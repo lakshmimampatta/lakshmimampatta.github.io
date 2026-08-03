@@ -18,16 +18,19 @@ Explored how metaverse-based therapeutic environments can engage ADHD adolescent
 ## Methodology
 Qualitative multiple-case study — 17 semi-structured interviews (therapists, designers, parents, teachers), analyzed using the Gioia Methodology in NVivo.
 
-![Gioia structure diagram]({{ base_path }}/images/portfolio/adhd-thesis/gioia_structure_spacious.png)
+![Gioia structure diagram](/images/gioia_structure_spacious.png)
+
 *Figure 1: Gioia methodology structure used for thematic analysis.*
 
 ## Outcomes
 Delivered a preliminary framework that offers concrete guidance for building safer, more engaging therapeutic metaverse platforms for ADHD adolescents.
 
-![Interrelationships of themes]({{ base_path }}/images/portfolio/adhd-thesis/Interrelationships_of_themes.png)
+![Interrelationships of themes](/images/Interrelationships_of_themes.png)
+
 *Figure 2: Interrelationships between identified themes.*
 
-![Design recommendations]({{ base_path }}/images/portfolio/adhd-thesis/Design_recommendations.png)
+![Design recommendations](/images/Design_recommendations.png)
+
 *Figure 3: Design recommendations derived from the findings.*
 
 [📄 Read the full Thesis Report]({{ base_path }}/files/Master_Thesis_Lakshmi_Mampatta.pdf)
