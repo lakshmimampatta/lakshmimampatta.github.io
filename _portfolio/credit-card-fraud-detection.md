@@ -71,7 +71,6 @@ Designed and evaluated a scalable machine learning pipeline for credit card frau
 - Model evaluation (accuracy, precision, recall)
 - Handling imbalanced datasets
 
-
 <details>
 <summary><strong>📷 Images</strong></summary>
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
