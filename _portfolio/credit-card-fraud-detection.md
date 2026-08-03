@@ -87,8 +87,8 @@ Designed and evaluated a scalable machine learning pipeline for credit card frau
     <p style="text-align: center; font-style: italic; font-size: 0.9em;">Clustering analysis</p>
   </div>
   <div style="flex: 1 1 30%;">
-    <a href="/images/Comparison_of_fraudulent_&amp;_non-fraudulent_transactions.png" target="_blank">
-      <img src="/images/Comparison_of_fraudulent_&amp;_non-fraudulent_transactions.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    <a href="/images/Comparison_of_fraudulent_and_non-fraudulent_transactions.png" target="_blank">
+      <img src="/images/Comparison_of_fraudulent_and_non-fraudulent_transactions.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
     </a>
     <p style="text-align: center; font-style: italic; font-size: 0.9em;">Comparison of transactions</p>
   </div>
@@ -105,8 +105,8 @@ Designed and evaluated a scalable machine learning pipeline for credit card frau
     <p style="text-align: center; font-style: italic; font-size: 0.9em;">Histogram of data</p>
   </div>
   <div style="flex: 1 1 30%;">
-    <a href="/images/results_of_fraud_prediction_models.png" target="_blank">
-      <img src="/images/results_of_fraud_prediction_models.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    <a href="/images/result_of_fraud_prediction_models.png" target="_blank">
+      <img src="/images/result_of_fraud_prediction_models.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
     </a>
     <p style="text-align: center; font-style: italic; font-size: 0.9em;">Results of fraud prediction models</p>
   </div>
