@@ -1,6 +1,6 @@
 ---
-title: "PAIZ — Participatory AI with Schoolchildren: Towards a Child-Driven Framework for Ethical AI Literacy"
-excerpt: 
+title: "PAIZ — Participatory AI with Schoolchildren"
+excerpt: "PAIZ — Participatory AI with Schoolchildren: Towards a Child-Driven Framework for Ethical AI Literacy"
 collection: portfolio
 category: research
 permalink: /research-projects/paiz-child-ai-literacy
