@@ -70,3 +70,46 @@ Designed and evaluated a scalable machine learning pipeline for credit card frau
 - Hyperparameter tuning and cross-validation
 - Model evaluation (accuracy, precision, recall)
 - Handling imbalanced datasets
+
+
+<details>
+<summary><strong>📷 Images</strong></summary>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
+  <div style="flex: 1 1 30%;">
+    <a href="/images/Analysis_of_transactions.png" target="_blank">
+      <img src="/images/Analysis_of_transactions" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Analysis of transactions</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <a href="/images/Clustering_analysis_of_transaction_data.png" target="_blank">
+      <img src="/images/Clustering_analysis_of_transaction_data.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Clustering analysis</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <a href="/images/Comparison_of_faudulent_&_non-fraudulent_transactions.png" target="_blank">
+      <img src="/images/Comparison_of_faudulent_&_non-fraudulent_transactions.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Comparison of transactions</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <a href="/images/fraud_rate_based_on_gender_state.png" target="_blank">
+      <img src="/images/fraud_rate_based_on_gender_state.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Fraud rate </p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <a href="/images/Histogram_of_data.png" target="_blank">
+      <img src="/images/Histogram_of_data.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Histogram of data</p>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <a href="/images/results_of_fraud_prediction_models.png" target="_blank">
+      <img src="/images/results_of_fraud_prediction_models.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
+    <p style="text-align: center; font-style: italic; font-size: 0.9em;">Results of fraud prediction models</p>
+  </div>
+</div>
+</details>
