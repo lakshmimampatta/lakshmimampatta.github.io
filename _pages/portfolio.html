@@ -7,8 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-
+<h2 id="research-projects">Research Projects</h2>
+<ul>
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  {% if post.category == "research" %}
+  <li><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endif %}
 {% endfor %}
+</ul>
 
+<h2 id="technical-projects">Technical Projects</h2>
+<ul>
+{% for post in site.portfolio %}
+  {% if post.category == "technical" %}
+  <li><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
