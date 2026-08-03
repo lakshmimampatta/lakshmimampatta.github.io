@@ -4,7 +4,7 @@ excerpt: "PAIZ — Participatory AI with Schoolchildren: Towards a Child-Driven 
 collection: portfolio
 category: research
 permalink: /research-projects/paiz-child-ai-literacy
-date: 2026-04-07
+date: 2025-02-03
 ---
 
 **INTERACT Research Unit, University of Oulu · PI: Dr. Sumita Sharma · Funded by the Research Council of Finland (2021–2024)**
