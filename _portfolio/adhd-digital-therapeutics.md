@@ -21,7 +21,7 @@ Qualitative multiple-case study — 17 semi-structured interviews (therapists, d
 ## Outcomes
 Delivered a preliminary framework that offers concrete guidance for building safer, more engaging therapeutic metaverse platforms for ADHD adolescents.
 
-[📄 Read the full Thesis Report](https://your-link-to-thesis.pdf)
+[📄 Read the full Thesis Report]({{ base_path }}/files/Master_Thesis_Lakshmi_Mampatta.pdf)
 
 ## Skills Demonstrated
 - Qualitative research design
