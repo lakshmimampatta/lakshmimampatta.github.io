@@ -13,7 +13,7 @@ date: 2026-04-07
 PAIZ explores the intersection of AI, ethics, and inclusivity, focusing on how young people engage with and understand artificial intelligence in digital contexts. The study engaged schoolchildren across Finland, India, Japan, and the USA in critically exploring and designing AI, using hands-on tools and design futuring methods to surface how children imagine ethical, fair technology futures.
 
 ## Objectives
-- Build children's critical AI literacy through hands-on exploration (e.g., Teachable Machine, ChatGPT)
+- Build children's critical AI literacy through hands-on exploration 
 - Center fairness and human agency in how children think about algorithmic decision-making
 - Capture children's own visions for AI in their future schools and classrooms
 
@@ -28,7 +28,7 @@ PAIZ explores the intersection of AI, ethics, and inclusivity, focusing on how y
 - Drafted the first version of the findings section for publication
 
 ## Outcomes
-Findings showed children envisioning classroom AI grounded in empathy, inclusion, and fairness — while also raising real concerns about privacy, discrimination, and control, shaped by their own everyday experiences.
+Findings showed children envisioning classroom AI grounded in empathy, inclusion, and fairness, while also raising real concerns about privacy, discrimination, and control, shaped by their own everyday experiences.
 
 ## Skills Demonstrated
 - Qualitative data analysis
