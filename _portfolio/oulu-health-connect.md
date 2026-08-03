@@ -48,33 +48,43 @@ The application was designed with a user-centric approach focusing on simplicity
 
 <details>
 <summary><strong>📷 Images</strong></summary>
-
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
   <div style="flex: 1 1 30%;">
-    <img src="/images/starting_pages.png" style="width: 100%; border-radius: 6px;">
+    <a href="/images/starting_pages.png" target="_blank">
+      <img src="/images/starting_pages.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
     <p style="text-align: center; font-style: italic; font-size: 0.9em;">Starting, Login, Profile Settings wireframe</p>
   </div>
   <div style="flex: 1 1 30%;">
-    <img src="/images/main_page.png" style="width: 100%; border-radius: 6px;">
+    <a href="/images/main_page.png" target="_blank">
+      <img src="/images/main_page.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
     <p style="text-align: center; font-style: italic; font-size: 0.9em;">Main wireframe</p>
   </div>
   <div style="flex: 1 1 30%;">
-    <img src="/images/hospitals_pharmacies_laborataries.png" style="width: 100%; border-radius: 6px;">
+    <a href="/images/hospitals_pharmacies_laborataries.png" target="_blank">
+      <img src="/images/hospitals_pharmacies_laborataries.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
     <p style="text-align: center; font-style: italic; font-size: 0.9em;">Healthcare organizations</p>
   </div>
   <div style="flex: 1 1 30%;">
-    <img src="/images/mental_wellness.png" style="width: 100%; border-radius: 6px;">
+    <a href="/images/mental_wellness.png" target="_blank">
+      <img src="/images/mental_wellness.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
     <p style="text-align: center; font-style: italic; font-size: 0.9em;">Mental Wellness</p>
   </div>
   <div style="flex: 1 1 30%;">
-    <img src="/images/search.png" style="width: 100%; border-radius: 6px;">
+    <a href="/images/search.png" target="_blank">
+      <img src="/images/search.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
     <p style="text-align: center; font-style: italic; font-size: 0.9em;">Search</p>
   </div>
   <div style="flex: 1 1 30%;">
-    <img src="/images/maps.png" style="width: 100%; border-radius: 6px;">
+    <a href="/images/maps.png" target="_blank">
+      <img src="/images/maps.png" style="width: 100%; border-radius: 6px; cursor: pointer;">
+    </a>
     <p style="text-align: center; font-style: italic; font-size: 0.9em;">Map</p>
   </div>
 </div>
-
 </details>
 
