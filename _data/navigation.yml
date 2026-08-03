@@ -13,9 +13,6 @@ main:
 
   - title: "Projects"
     url: /portfolio/
-        
-  - title: "Nature"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
@@ -23,5 +20,3 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
