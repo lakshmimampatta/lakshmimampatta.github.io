@@ -13,7 +13,7 @@ A futures-workshop study exploring what people with epilepsy need from digital h
 ## Objectives
 - Understand the needs of epilepsy patients regarding current and future digital interventions (DIs)
 - Build and validate future scenarios for digital epilepsy care
-- Surface risks — including exclusion and poor usability — that need to be designed around, not just opportunities
+- Identify risks such as digital exclusion, accessibility barriers, and poor usability to ensure future digital epilepsy solutions are inclusive and      patient-centered.
 
 ## Methodology
 - Futures workshop method (Jungk & Müllert)
