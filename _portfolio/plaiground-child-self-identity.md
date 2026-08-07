@@ -26,7 +26,9 @@ A pilot study exploring how children aged 7–12 represent their present and fut
 Involved in workshop planning, pre-session discussions, and data collection.
 
 ## Outcomes
-Early findings suggest the analog, hands-on self-portrait produced the strongest connection to children's genuine self-image, while AI-mediated versions sometimes disrupted this connection — informing a proposed "Pl-AI" framework for more child-centered AI design.
+- Early findings suggest the analog, hands-on self-portrait produced the strongest connection to children's genuine self-image, while AI-mediated   
+  versions sometimes disrupted this connection.
+- Informing a proposed "Pl-AI" framework for more child-centered AI design.
 
 ## Skills Demonstrated
 - Workshop planning and facilitation
