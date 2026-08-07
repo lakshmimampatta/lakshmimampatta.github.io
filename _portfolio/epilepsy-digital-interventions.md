@@ -26,7 +26,8 @@ A futures-workshop study exploring what people with epilepsy need from digital h
 Participated in one of the workshop sessions, where we discussed the everyday difficulties faced by people with epilepsy and their families, and explored what kinds of digital solutions could realistically ease those challenges in the future. Contributed to shaping and discussing multiple future scenarios and their associated solutions.
 
 ## Outcomes
-Identified three priority needs — personalization of care, informational support, and resource constraints — and built three scenarios showing how digital epilepsy care could evolve: from accessible, well-integrated hybrid care (positive) to exclusion and unreliable tools (negative), with a probable middle path where digital literacy improves but new challenges emerge alongside it.
+Identified three priority needs: personalization of care, informational support, and resource constraints
+Built three scenarios showing how digital epilepsy care could evolve: from accessible, well-integrated hybrid care (positive) to exclusion and unreliable tools (negative), with a probable middle path where digital literacy improves but new challenges emerge alongside it.
 
 ## Skills Demonstrated
 - Futures workshop facilitation
